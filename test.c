@@ -15,5 +15,12 @@ int main(void){
 
 	printf("‚³‚¢‚±‚ë‚Ìo–Ú = %d \n", sum);
 
+	if (sum > 7) {
+		printf("You won\n");
+	}
+	else {
+		printf("You lose\n");
+	}
+
 	return 0;
 }

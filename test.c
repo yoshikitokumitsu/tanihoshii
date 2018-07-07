@@ -2,18 +2,29 @@
 #include<stdlib.h>
 #include<time.h>
 
+int n = 100;
+
 int main(void){
 
-	int s,t,sum;
+	char unti[n];
+	int a;
 
-	srand(time(NULL));
+	scanf("%d", &a);
 
-	s = rand() % 6 + 1;
-	t = rand() % 6 + 1;
-	sum = s+t;
+	for (i = 0, i = a, i++) {
 
 
-	printf("Ç≥Ç¢Ç±ÇÎÇÃèoñ⁄ = %d \n", sum);
+		scanf("%s", &unti[n]);
+
+	}
+
+	printf("Hello, ");
+
+	for (i = 0, i = a, i++) {
+		printf("%s", &unti[a]):
+	}
+
+	printf("\n");
 
 	return 0;
 }

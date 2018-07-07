@@ -27,10 +27,17 @@ int main(void){
 	printf("\n");
 
 	if (sum > 7) {
-		printf("You won\n");
+
+		for (i = 0; i = a; i++) {
+			printf("%d", unti[a]);
+		}
+		printf(" won\n");
 	}
 	else {
-		printf("You lose\n");
+		for (i = 0; i = a; i++) {
+			printf("%d", unti[a]);
+		}
+		printf(" lose\n");
 	}
 
 	return 0;
